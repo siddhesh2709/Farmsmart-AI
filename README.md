@@ -99,25 +99,3 @@ agri-ai-platform/
 ## 🌍 Impact
 
 This platform is designed with a mission to empower rural communities by improving access to smart agriculture tools, bridging the digital divide, and ensuring sustainable farming practices.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from developers, researchers, and domain experts. Please check the [CONTRIBUTING.md](docs/CONTRIBUTING.md) to get started.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or collaborations, reach out via [email@example.com](mailto:email@example.com) or open an issue.
-
----
-
-Let me know if you'd like it adapted for a specific tech stack, or want me to generate the folder structure or contribution guide too.
